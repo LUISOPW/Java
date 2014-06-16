@@ -530,6 +530,7 @@ CATALOGO TCUENTA EMPLEADO
 AQUI ESTOY TRABAJANDO EN OTRA RAMA 
 
 
+>>>>>>>>>>>>>>>>>>>>-------------------------->>>>>>>>>>>>>>>>>>>>>>>>>>>>>> OTRO CAMBIO
 
 
 
